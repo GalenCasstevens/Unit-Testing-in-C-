@@ -58,3 +58,12 @@ C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\U
 C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\obj\Debug\TestNinja.UnitTests.csproj.CopyComplete
 C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\Moq.pdb
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gcasste1\Documents\Unit Testing with C#\source-code-starter\TestNinja\UnitTestProject1\bin\Debug\System.ValueTuple.xml
